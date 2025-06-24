@@ -6,30 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Part01_34.Same" />
-        <module name="Part01_05.Message" />
         <module name="Part02_33.StarSign" />
         <module name="Part02_05.CarryOn" />
-        <module name="Part01_10.Story" />
         <module name="Part02_22.Reprint" />
         <module name="Part02_19.Factorial" />
         <module name="Part02_30.Smallest" />
+        <module name="Part02_27.NumberUno" />
         <module name="Part02_31.Greatest" />
-        <module name="Part01_36.LeapYear" />
-        <module name="Part01_26.Orwell" />
         <module name="Part02_14.Counting" />
-        <module name="Part01_29.Adulthood" />
-        <module name="Part01_33.Password" />
         <module name="Part02_28.Word" />
-        <module name="Part01_27.Ancient" />
-        <module name="Part01_08.Greeting" />
         <module name="Part02_01.Squared" />
-        <module name="Part01_04.Dinosaur" />
-        <module name="Part01_01.Sandbox" />
-        <module name="Part01_37.GiftTax" />
-        <module name="Part01_32.OddOrEven" />
         <module name="Part02_25.Division" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Part01_01.Sandbox" target="1.8" />
+      <module name="Part01_04.Dinosaur" target="1.8" />
+      <module name="Part01_05.Message" target="1.8" />
+      <module name="Part01_08.Greeting" target="1.8" />
+      <module name="Part01_10.Story" target="1.8" />
+      <module name="Part01_26.Orwell" target="1.8" />
+      <module name="Part01_27.Ancient" target="1.8" />
+      <module name="Part01_29.Adulthood" target="1.8" />
+      <module name="Part01_32.OddOrEven" target="1.8" />
+      <module name="Part01_33.Password" target="1.8" />
+      <module name="Part01_34.Same" target="1.8" />
+      <module name="Part01_36.LeapYear" target="1.8" />
+      <module name="Part01_37.GiftTax" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
