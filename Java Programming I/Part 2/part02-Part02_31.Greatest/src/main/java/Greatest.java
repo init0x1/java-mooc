@@ -2,9 +2,14 @@
 public class Greatest {
 
     public static int greatest(int number1, int number2, int number3) {
-        //write some code here
-
-        return -1;
+        int greatNumber = number1;
+        if(number2>greatNumber){
+            greatNumber=number2;
+        }
+        if(number3>greatNumber){
+            greatNumber=number3;
+        }
+        return greatNumber;
     }
 
     public static void main(String[] args) {
