@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/part02-Part02_01.Squared/Part02_01.Squared.iml" filepath="$PROJECT_DIR$/part02-Part02_01.Squared/Part02_01.Squared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part02-Part02_05.CarryOn/Part02_05.CarryOn.iml" filepath="$PROJECT_DIR$/part02-Part02_05.CarryOn/Part02_05.CarryOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part02-Part02_14.Counting/Part02_14.Counting.iml" filepath="$PROJECT_DIR$/part02-Part02_14.Counting/Part02_14.Counting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part02-Part02_19.Factorial/Part02_19.Factorial.iml" filepath="$PROJECT_DIR$/part02-Part02_19.Factorial/Part02_19.Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mooc-java-programming-i.iml" filepath="$PROJECT_DIR$/.idea/mooc-java-programming-i.iml" />
     </modules>
   </component>

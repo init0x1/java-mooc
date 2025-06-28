@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Part02_33.StarSign" />
-        <module name="Part02_22.Reprint" />
         <module name="Part02_30.Smallest" />
         <module name="Part02_28.Word" />
         <module name="Part02_27.NumberUno" />
@@ -33,6 +32,7 @@
       <module name="Part02_05.CarryOn" target="1.8" />
       <module name="Part02_14.Counting" target="1.8" />
       <module name="Part02_19.Factorial" target="1.8" />
+      <module name="Part02_22.Reprint" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
