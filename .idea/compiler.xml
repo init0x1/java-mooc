@@ -11,7 +11,6 @@
         <module name="Part02_28.Word" />
         <module name="Part02_27.NumberUno" />
         <module name="Part02_31.Greatest" />
-        <module name="Part02_25.Division" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +32,7 @@
       <module name="Part02_14.Counting" target="1.8" />
       <module name="Part02_19.Factorial" target="1.8" />
       <module name="Part02_22.Reprint" target="1.8" />
+      <module name="Part02_25.Division" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
